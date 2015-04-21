@@ -1,0 +1,5 @@
+D:\Krunal Other\VSRequireJSDemo\VSRequireJSDemo\bin\VSRequireJSDemo.dll.config
+D:\Krunal Other\VSRequireJSDemo\VSRequireJSDemo\bin\VSRequireJSDemo.dll
+D:\Krunal Other\VSRequireJSDemo\VSRequireJSDemo\bin\VSRequireJSDemo.pdb
+D:\Krunal Other\VSRequireJSDemo\VSRequireJSDemo\obj\Debug\VSRequireJSDemo.dll
+D:\Krunal Other\VSRequireJSDemo\VSRequireJSDemo\obj\Debug\VSRequireJSDemo.pdb
